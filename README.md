@@ -1,5 +1,5 @@
 # DarkChat
-#### (Secure, Encrypted, Confidental Chatting)
+#### (Private, Encrypted, Confidental Chatting)
 **DarkChat** is a secure, real-time chat application written entirely in Python. It features end-to-end encrypted messaging, a simple, easy to use, and customizable UI using wxPython, and chat rooms that can be hosted by anyone, that support multiple users over a TCP socket server. Users connect to these servers by providing an **IP adress**, a **port**, and an **encryption key**. Once connected, you will be prompted to enter a username. When you do, you will connect. Once you connect, you will be able to chat! Absolutely nothing is logged, so feel free to use this application however you want to 😉 .  
 
 ## Connection UI with details entered
